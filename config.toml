@@ -15,7 +15,7 @@ publishDir = "docs"
 
 # Below parameters can be set to override default post settings
  [params.posts]
-     folderName = "post"
+     folderName = "posts"
      pageSize = "6"
      featuredPost = "true"
      paginationPages = 2
@@ -24,9 +24,9 @@ publishDir = "docs"
 [languages]
 [languages.en]
   languageName = "English"
-[languages.es]
-  languageName = "Español"
-  title = "Massively - Versión Español"
+#[languages.es]
+#  languageName = "Español"
+#  title = "Massively - Versión Español"
 #[languages.fr]
 #  languageName = "Français"
 #  title = "Massively - Version Française"

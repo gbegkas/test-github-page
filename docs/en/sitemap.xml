@@ -3,7 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://gbegkas.github.io/test-github-page/posts/darth/</loc>
+    <lastmod>2019-11-29T14:10:38+02:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://gbegkas.github.io/test-github-page/</loc>
+    <lastmod>2019-11-29T14:10:38+02:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"

@@ -6,9 +6,21 @@
     <description>Recent content on Massively</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Fri, 29 Nov 2019 14:10:38 +0200</lastBuildDate>
     
 	<atom:link href="https://gbegkas.github.io/test-github-page/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Did You Ever Hear the Tragedy of Darth Plagueis the Wise?</title>
+      <link>https://gbegkas.github.io/test-github-page/posts/darth/</link>
+      <pubDate>Fri, 29 Nov 2019 14:10:38 +0200</pubDate>
+      
+      <guid>https://gbegkas.github.io/test-github-page/posts/darth/</guid>
+      <description>I thought not. It&#39;s not a story the Jedi would tell you. It&#39;s a Sith legend.
+Darth Plagueis was a Dark Lord of the Sith so powerful and so wise, he could use the Force to influence the midi-chlorians to create life. He had such a knowledge of the dark side, he could even keep the ones he cared about from dying.
+The dark side of the Force is a pathway to many abilities some consider to be unnatural.</description>
+    </item>
     
   </channel>
 </rss>
