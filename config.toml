@@ -7,19 +7,19 @@ disqusShortname = ""
 disableKinds = ["taxonomy", "taxonomyTerm", "section"]
 publishDir = "docs"
 
-# [params]
-  # set below parameter to define a favicon
-  # favicon = "favicon.ico"
-  # set to change date format
-  # dateFormat = "2.1.2006"
+ [params]
+   #set below parameter to define a favicon
+   favicon = "favicon.ico"
+   #set to change date format
+   dateFormat = "2.1.2006"
 
 # Below parameters can be set to override default post settings
-# [params.posts]
-#     folderName = "post"
-#     pageSize = "6"
-#     featuredPost = "true"
-#     paginationPages = 2
-#     showFirstLast = false
+ [params.posts]
+     folderName = "post"
+     pageSize = "6"
+     featuredPost = "true"
+     paginationPages = 2
+     showFirstLast = false
 
 [languages]
 [languages.en]
