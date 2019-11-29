@@ -9,7 +9,7 @@ publishDir = "docs"
 
  [params]
    #set below parameter to define a favicon
-   favicon = "favicon.ico"
+   favicon = "/static/favicon.ico"
    #set to change date format
    dateFormat = "2.1.2006"
 
